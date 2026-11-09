@@ -7,6 +7,6 @@ documenting everything I learn, one day at a time.
 - 01-Python/ — Python fundamentals(Modules, Comments & pip), organized as Day-01 / Chapter-01
 
 ## Progress
-- [x] Day 01: Python basics
+- [x] Day 01: Python fundamentals(Modules, Comments & pip and Practice Set) 
 
 
