@@ -13,10 +13,15 @@ documenting everything I learn, one day at a time.
 │   ├── Chapter-01-Modules-Comments-Pip/
 │   └── Chapter-01-Practice-Set/
 └── Day-02/
-    ├── Chapter-02-Variables-and-Data-Types/
-    └── Chapter-02-Practice-Set
-    └── Chapter-03-Strings/
-    └── Chapter-03-Pracitc-Set
+│    ├── Chapter-02-Variables-and-Data-Types/
+│    └── Chapter-02-Practice-Set
+│    └── Chapter-03-Strings/
+│   └── Chapter-03-Pracitc-Set
+└── Day-03/
+    ├── Chapter-04-List & Tuple/
+    └── Chapter-04-Practice-Set
+    └── Chapter-05-Dictionary & Set/
+    └── Chapter-05-Pracitc-Set
 ```
 
 ## Progress Log
@@ -24,7 +29,8 @@ documenting everything I learn, one day at a time.
 | Day | Date | What I learned | Folder |
 |-----|------|----------------|--------|
 | 01 | 2026-11-09 | Modules, comments, pip and practice set | `01-Python/Day-01/` |
-| 02 | 2026-11-10 | Variables, data types, strings (slicing, functions, escape sequences) | `01-Python/Day-02/` |
+| 02 | 2026-11-10 | Variables, data types, string (slicing, functions, escape sequences) | `01-Python/Day-02/` |
+| 03 | 2026-11-01 | List, tuple, dictionary, set | `01-Python/Day-03/` |
 
 ## Connect
 
