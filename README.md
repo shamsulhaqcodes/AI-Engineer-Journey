@@ -30,7 +30,7 @@ documenting everything I learn, one day at a time.
 |-----|------|----------------|--------|
 | 01 | 2026-11-09 | Modules, comments, pip and practice set | `01-Python/Day-01/` |
 | 02 | 2026-11-10 | Variables, data types, string (slicing, functions, escape sequences) | `01-Python/Day-02/` |
-| 03 | 2026-11-01 | List, tuple, dictionary, set | `01-Python/Day-03/` |
+| 03 | 2026-11-11 | List, tuple, dictionary, set | `01-Python/Day-03/` |
 
 ## Connect
 
