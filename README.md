@@ -29,4 +29,4 @@ documenting everything I learn, one day at a time.
 ## Connect
 
 - GitHub: [shamsulhaqcodes](https://github.com/shamsulhaqcodes)
-- LinkedIn: https://www.linkedin.com/in/muhammad-shamsulhaq-5a774a44a 
+- LinkedIn: https://www.linkedin.com/in/muhammadshamsulhaq/
