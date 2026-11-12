@@ -15,7 +15,7 @@ I'm a BSCS student sharing my code and practice here, one day at a time.
 
 | Phase | Topic | Status |
 |-------|-------|--------|
-| 01 | Python Fundamentals | 🚧 In progress |
+| 01 | Python | 🚧 In progress |
 
 ## 📊 Progress
 
@@ -24,6 +24,7 @@ I'm a BSCS student sharing my code and practice here, one day at a time.
 | 01 | 2026-11-09 | Modules, comments, pip | [day-01](day-01/python/) |
 | 02 | 2026-11-10 | Variables, data types, strings | [day-02](day-02/python/) |
 | 03 | 2026-11-11 | Lists, tuples, dictionaries, sets | [day-03](day-03/python/) |
+| 04 | 2026-11-12 |Conditional expressions | [day-04](day-04/python/) |
 
 ## 📁 Folder structure
 
@@ -48,6 +49,10 @@ AI-Engineer-Journey/
 │       ├── 04-chapter-practice-set/
 │       ├── 05-chapter-dictionary-and-set/
 │       └── 05-chapter-practice-set/
+├── day-04/
+│   └── python/
+│       ├── 06-chapter-conditional-expression/
+│       ├── 06-chapter-practice-setc/
 └── README.md
 ```
 
@@ -62,8 +67,20 @@ git clone https://github.com/shamsulhaqcodes/AI-Engineer-Journey.git
 cd AI-Engineer-Journey/day-01/python/01-chapter-modules-comments-pip
 python first.py
 ```
+---
+
+## 🤝 Feedback & contributions
+
+I'm still learning, so corrections and suggestions are very welcome.
+
+- Found a mistake or have a better way to do it? Open an [Issue](../../issues).
+- Want to suggest an improvement? Open a Pull Request.
 
 ## 🔗 Connect
 
 - GitHub: [shamsulhaqcodes](https://github.com/shamsulhaqcodes)
 - LinkedIn: [Muhammad ShamsulHaq](https://www.linkedin.com/in/muhammadshamsulhaq/)
+
+---
+
+⭐ If this repo helps you, consider giving it a star.
