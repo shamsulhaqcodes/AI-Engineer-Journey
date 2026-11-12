@@ -1,38 +1,69 @@
 # AI Engineer Journey 🚀
 
-My learning log on the path to becoming an AI engineer. I'm a BSCS student
-documenting everything I learn, one day at a time.
+My learning log on the path to becoming an AI engineer.
+I'm a BSCS student sharing my code and practice here, one day at a time.
 
-**Goal:** Build real AI projects and become an AI engineer.
+![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Started](https://img.shields.io/badge/Started-Nov%202026-orange)
 
-## Folder Structure
+**Goal:** Become an AI engineer by building real projects.
 
-```
-01-Python/
-├── Day-01/
-│   ├── Chapter-01-Modules-Comments-Pip/
-│   └── Chapter-01-Practice-Set/
-└── Day-02/
-│    ├── Chapter-02-Variables-and-Data-Types/
-│    └── Chapter-02-Practice-Set
-│    └── Chapter-03-Strings/
-│   └── Chapter-03-Pracitc-Set
-└── Day-03/
-    ├── Chapter-04-List & Tuple/
-    └── Chapter-04-Practice-Set
-    └── Chapter-05-Dictionary & Set/
-    └── Chapter-05-Pracitc-Set
-```
+---
 
-## Progress Log
+## 🗺️ Roadmap
+
+| Phase | Topic | Status |
+|-------|-------|--------|
+| 01 | Python Fundamentals | 🚧 In progress |
+
+## 📊 Progress
 
 | Day | Date | What I learned | Folder |
 |-----|------|----------------|--------|
-| 01 | 2026-11-09 | Modules, comments, pip and practice set | `01-Python/Day-01/` |
-| 02 | 2026-11-10 | Variables, data types, string (slicing, functions, escape sequences) | `01-Python/Day-02/` |
-| 03 | 2026-11-11 | List, tuple, dictionary, set | `01-Python/Day-03/` |
+| 01 | 2026-11-09 | Modules, comments, pip | [day-01](day-01/python/) |
+| 02 | 2026-11-10 | Variables, data types, strings | [day-02](day-02/python/) |
+| 03 | 2026-11-11 | Lists, tuples, dictionaries, sets | [day-03](day-03/python/) |
 
-## Connect
+## 📁 Folder structure
+
+Each day has a folder for the subject I studied. Inside it, every chapter
+has its own folder, plus a practice set.
+
+```
+AI-Engineer-Journey/
+├── day-01/
+│   └── python/
+│       ├── 01-chapter-modules-comments-pip/
+│       └── 01-chapter-practice-set/
+├── day-02/
+│   └── python/
+│       ├── 02-chapter-variables-and-data-types/
+│       ├── 02-chapter-practice-set/
+│       ├── 03-chapter-strings/
+│       └── 03-chapter-practice-set/
+├── day-03/
+│   └── python/
+│       ├── 04-chapter-list-and-tuple/
+│       ├── 04-chapter-practice-set/
+│       ├── 05-chapter-dictionary-and-set/
+│       └── 05-chapter-practice-set/
+└── README.md
+```
+
+**Naming rules:** lowercase, words joined by hyphens, numbered so they sort in order.
+
+## ▶️ Run the code
+
+You need [Python 3](https://www.python.org/downloads/) installed.
+
+```bash
+git clone https://github.com/shamsulhaqcodes/AI-Engineer-Journey.git
+cd AI-Engineer-Journey/day-01/python/01-chapter-modules-comments-pip
+python first.py
+```
+
+## 🔗 Connect
 
 - GitHub: [shamsulhaqcodes](https://github.com/shamsulhaqcodes)
-- LinkedIn: https://www.linkedin.com/in/muhammadshamsulhaq/
+- LinkedIn: [Muhammad ShamsulHaq](https://www.linkedin.com/in/muhammadshamsulhaq/)
