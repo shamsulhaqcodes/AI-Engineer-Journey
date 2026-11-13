@@ -24,7 +24,8 @@ I'm a BSCS student sharing my code and practice here, one day at a time.
 | 01 | 2026-11-09 | Modules, comments, pip | [day-01](day-01/python/) |
 | 02 | 2026-11-10 | Variables, data types, strings | [day-02](day-02/python/) |
 | 03 | 2026-11-11 | Lists, tuples, dictionaries, sets | [day-03](day-03/python/) |
-| 04 | 2026-11-12 |Conditional expressions | [day-04](day-04/python/) |
+| 04 | 2026-11-12 | Conditional expressions | [day-04](day-04/python/) |
+| 05 | 2026-11-13 | Loops in Python | [day-05](day-05/python/) |
 
 ## 📁 Folder structure
 
@@ -52,7 +53,11 @@ AI-Engineer-Journey/
 ├── day-04/
 │   └── python/
 │       ├── 06-chapter-conditional-expression/
-│       ├── 06-chapter-practice-setc/
+│       ├── 06-chapter-practice-set/
+├── day-05/
+│   └── python/
+│       ├── 07-chapter-loops/
+│       ├── 07-chapter-practice-set/
 └── README.md
 ```
 
