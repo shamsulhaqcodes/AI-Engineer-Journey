@@ -15,7 +15,7 @@ I'm a BSCS student sharing my code and practice here, one day at a time.
 
 | Phase | Topic | Status |
 |-------|-------|--------|
-| 01 | Python | 🚧 In progress |
+| 01 | Python Fundamentals| 🚧 In progress |
 
 ## 📊 Progress
 
@@ -26,6 +26,7 @@ I'm a BSCS student sharing my code and practice here, one day at a time.
 | 03 | 2026-11-11 | Lists, tuples, dictionaries, sets | [day-03](day-03/python/) |
 | 04 | 2026-11-12 | Conditional expressions | [day-04](day-04/python/) |
 | 05 | 2026-11-13 | Loops in Python | [day-05](day-05/python/) |
+| 06 | 2026-11-13 |Function and Recursion | [day-06](day-06/python/) |
 
 ## 📁 Folder structure
 
@@ -58,6 +59,10 @@ AI-Engineer-Journey/
 │   └── python/
 │       ├── 07-chapter-loops/
 │       ├── 07-chapter-practice-set/
+├── day-06/
+│   └── python/
+│       ├── 08-chapter-function-and-recursion/
+│       ├── 08-chapter-practice-set/
 └── README.md
 ```
 
