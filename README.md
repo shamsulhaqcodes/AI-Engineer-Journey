@@ -1,99 +1,72 @@
-# AI Engineer Journey 🚀
+# AI Engineer Journey
 
-My learning log on the path to becoming an AI engineer.
-I'm a BSCS student sharing my code and practice here, one day at a time.
+I'm a BSCS student and a beginner learning to become an AI engineer. This repo is my public learning log: my code, practice and projects, one week at a time.
+
 
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Started](https://img.shields.io/badge/Started-Nov%202026-orange)
 
-**Goal:** Become an AI engineer by building real projects.
+
+**Goal:** Build real AI projects and grow step by step into a Python and AI application developer.
 
 ---
 
-## 🗺️ Roadmap
+## Start here
 
-| Phase | Topic | Status |
-|-------|-------|--------|
-| 01 | Python Fundamentals| 🚧 In progress |
+- **Hiring managers and engineers:** see the [Projects](#projects) table below.
+- **Learners and beginners:** start at [Week 1](phase-1-foundations/week-01-python-fundamentals/) and follow the daily log in order.
+- **Feedback:** corrections and suggestions are welcome through [Issues](../../issues).
 
-## 📊 Progress
+## Learning plan
 
-| Day | Date | What I learned | Folder |
-|-----|------|----------------|--------|
-| 01 | 2026-11-09 | Modules, comments, pip | [day-01](day-01/python/) |
-| 02 | 2026-11-10 | Variables, data types, strings | [day-02](day-02/python/) |
-| 03 | 2026-11-11 | Lists, tuples, dictionaries, sets | [day-03](day-03/python/) |
-| 04 | 2026-11-12 | Conditional expressions | [day-04](day-04/python/) |
-| 05 | 2026-11-13 | Loops in Python | [day-05](day-05/python/) |
-| 06 | 2026-11-14 | Function and Recursion | [day-06](day-06/python/) |
-| 07 | 2026-11-15 | Project 01 | [day-06](day-07/project-01-mini-python-toolkit/) |
+| Phase | Weeks | Focus | Status |
+|-------|-------|-------|--------|
+| 1 | 1-4 | Foundations: Python, Git, SQL, APIs | In progress |
+| 2 | 5-8 | Data and math: NumPy, Pandas, ML basics | Planned |
+| 3 | 9-13 | Machine learning and first LLM apps | Planned |
+| 4 | 14-18 | Deep learning and portfolio | Planned |
+| 5 | 19-21 | LLM engineering: RAG evaluation, agents, Docker | Planned |
+| 6 | 22-23 | Capstone project | Planned |
 
-## 📁 Folder structure
+## Progress
 
-Each day has a folder for the subject I studied. Inside it, every chapter
-has its own folder, plus a practice set.
+| Week | Dates | Focus | Status |
+|------|-------|-------|--------|
+| [01](phase-1-foundations/week-01-python-fundamentals/) | 2026-11-09 to 2026-11-15 | Python fundamentals | Complete |
+| 02 | 2026-11-16 to 2026-11-22 | Python OOP and file handling | In progress |
+
+## Projects
+
+| # | Project | Completed | Level | Tech |
+|---|---------|-----------|-------|------|
+| 01 | [Mini Python Toolkit](phase-1-foundations/week-01-python-fundamentals/project-01-mini-python-toolkit/) | 2026-11-15 | Beginner | Python |
+
+## Repository structure
 
 ```
-AI-Engineer-Journey/
-├── day-01/
-│   └── python/
-│       ├── 01-chapter-modules-comments-pip/
-│       └── 01-chapter-practice-set/
-├── day-02/
-│   └── python/
-│       ├── 02-chapter-variables-and-data-types/
-│       ├── 02-chapter-practice-set/
-│       ├── 03-chapter-strings/
-│       └── 03-chapter-practice-set/
-├── day-03/
-│   └── python/
-│       ├── 04-chapter-list-and-tuple/
-│       ├── 04-chapter-practice-set/
-│       ├── 05-chapter-dictionary-and-set/
-│       └── 05-chapter-practice-set/
-├── day-04/
-│   └── python/
-│       ├── 06-chapter-conditional-expression/
-│       ├── 06-chapter-practice-set/
-├── day-05/
-│   └── python/
-│       ├── 07-chapter-loops/
-│       ├── 07-chapter-practice-set/
-├── day-06/
-│   └── python/
-│       ├── 08-chapter-function-and-recursion/
-│       ├── 08-chapter-practice-set/
-├── day-07/
-│   └── project-01-mini-python-toolkit/
-└── README.md
+phase-N-name/week-NN-topic/day-NNN-topic/chNN-chapter-name/
 ```
 
-**Naming rules:** lowercase, words joined by hyphens, numbered so they sort in order.
+- Each **week** folder has a README with the daily log and that week's project.
+- **Day** folders hold the code for that day, grouped by course chapter (`chNN`) with a practice set.
+- Names are lowercase, hyphen-separated and numbered so they sort in order.
 
-## ▶️ Run the code
+## Run the code
 
-You need [Python 3](https://www.python.org/downloads/) installed.
+Requires [Python 3](https://www.python.org/downloads/).
 
 ```bash
 git clone https://github.com/shamsulhaqcodes/AI-Engineer-Journey.git
-cd AI-Engineer-Journey/day-01/python/01-chapter-modules-comments-pip
-python first.py
+cd AI-Engineer-Journey/phase-1-foundations/week-01-python-fundamentals/project-01-mini-python-toolkit
+python main.py
 ```
----
 
-## 🤝 Feedback & contributions
+## Feedback
 
-I'm still learning, so corrections and suggestions are very welcome.
+Found a mistake or a better approach? Please open an [Issue](../../issues).
 
-- Found a mistake or have a better way to do it? Open an [Issue](../../issues).
-- Want to suggest an improvement? Open a Pull Request.
-
-## 🔗 Connect
+## Connect
 
 - GitHub: [shamsulhaqcodes](https://github.com/shamsulhaqcodes)
 - LinkedIn: [Muhammad ShamsulHaq](https://www.linkedin.com/in/muhammadshamsulhaq/)
-
----
-
-⭐ If this repo helps you, consider giving it a star.
