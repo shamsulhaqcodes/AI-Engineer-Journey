@@ -26,7 +26,8 @@ I'm a BSCS student sharing my code and practice here, one day at a time.
 | 03 | 2026-11-11 | Lists, tuples, dictionaries, sets | [day-03](day-03/python/) |
 | 04 | 2026-11-12 | Conditional expressions | [day-04](day-04/python/) |
 | 05 | 2026-11-13 | Loops in Python | [day-05](day-05/python/) |
-| 06 | 2026-11-13 |Function and Recursion | [day-06](day-06/python/) |
+| 06 | 2026-11-14 | Function and Recursion | [day-06](day-06/python/) |
+| 07 | 2026-11-15 | Project 01 | [day-06](day-07/project-01-mini-python-toolkit/) |
 
 ## 📁 Folder structure
 
@@ -63,6 +64,8 @@ AI-Engineer-Journey/
 │   └── python/
 │       ├── 08-chapter-function-and-recursion/
 │       ├── 08-chapter-practice-set/
+├── day-07/
+│   └── project-01-mini-python-toolkit/
 └── README.md
 ```
 
