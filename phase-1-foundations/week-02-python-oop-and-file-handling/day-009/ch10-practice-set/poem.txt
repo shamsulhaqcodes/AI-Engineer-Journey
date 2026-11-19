@@ -1,0 +1,11 @@
+No curly braces clutter up the screen,
+Just clean white spaces keeping logic lean.
+
+It reads like English, easy to unwind,
+A friendly language for a coder's mind.
+
+From simple scripts to data deep and vast,
+It helps you build your wildest ideas fast.
+
+Just import magic, run it, and you'll see,
+How sweet and smooth a little code can be.
