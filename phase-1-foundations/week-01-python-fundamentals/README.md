@@ -8,13 +8,13 @@ Write small, correct Python programs from a blank file using variables, control 
 ## Daily log
 
 | Day | Date | Topic | Folder |
-|-----|------|-------|--------|
-| 001 | 2026-11-09 | Modules, comments, pip | [day-001](day-001-modules-and-pip/) |
-| 002 | 2026-11-10 | Variables, data types, strings | [day-002](day-002-variables-and-strings/) |
-| 003 | 2026-11-11 | Lists, tuples, dictionaries, sets | [day-003](day-003-collections/) |
-| 004 | 2026-11-12 | Conditional expressions | [day-004](day-004-conditionals/) |
-| 005 | 2026-11-13 | Loops | [day-005](day-005-loops/) |
-| 006 | 2026-11-14 | Functions and recursion | [day-006](day-006-functions-and-recursion/) |
+| :---: | :---: | :--- | :---: |
+| 001 | 2026-11-09 | Modules, comments, pip | [day-001](./day-001) |
+| 002 | 2026-11-10 | Variables, data types, strings | [day-002](./day-002) |
+| 003 | 2026-11-11 | Lists, tuples, dictionaries, sets | [day-003](./day-003) |
+| 004 | 2026-11-12 | Conditional expressions | [day-004](./day-004) |
+| 005 | 2026-11-13 | Loops | [day-005](./day-005) |
+
 
 ## Project
 
