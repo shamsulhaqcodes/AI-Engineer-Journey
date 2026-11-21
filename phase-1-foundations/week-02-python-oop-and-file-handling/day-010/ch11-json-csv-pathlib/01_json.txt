@@ -1,0 +1,33 @@
+JSON (JavaScript Object Notation) is a plain-text format for storing structured data. It looks almost like a Python dictionary, so Python converts between the two easily.
+
+The Python json module provides tools to encode and decode data in JavaScript Object Notation (JSON), a lightweight data interchange format that’s easy for humans to read and write and easy for machines to parse and generate.
+
+Python and JSON use different words for the same things:
+
+Python 	                JSON
+
+dict	                object {}
+list, tuple	            array []
+str	                    string
+int, float	            number
+True / False	        true / false
+None	                null
+
+
+
+The four functions to remember (the s stands for string):
+
+Function	            Direction
+
+json.dumps(obj)	        Python → JSON string
+json.loads(text)	    JSON string → Python
+json.dump(obj, f)	    Python → JSON file
+json.load(f)	        JSON file → Python
+
+JSON has strict rules:
+Double quotes only, no trailing commas, and keys are always strings.
+
+
+Always add encoding="utf-8" so text (including Urdu) is saved correctly on Windows.
+
+utf-8 (Unicode Transformation Format – 8-bit) is the universal standard for text on the web because it supports almost every character from every language, plus emojis, while staying backward-compatible with basic English (ASCII)

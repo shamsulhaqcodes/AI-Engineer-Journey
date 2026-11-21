@@ -1,0 +1,11 @@
+{
+    "Name": "Ali",
+    "Age": 20,
+    "Passed": true,
+    "Grade": {
+        "Python": "A+",
+        "C++": "A",
+        "Javascript": "B"
+    },
+    "Location": null
+}

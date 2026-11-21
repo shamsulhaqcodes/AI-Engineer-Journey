@@ -1,0 +1,20 @@
+CSV stands for Comma-Separated Values.
+It is a file format used to store tabular data in rows and columns.
+
+Think of an Excel spreadsheet:
+Ali	    21  BSCS	85
+Ahmed	22	BSCS	90
+Sara	20	BBA	    92
+Usman	23	BSCS	78
+
+
+Function/tool	            Purpose
+
+csv.reader()	            Read CSV rows
+csv.writer()	            Write CSV rows
+csv.DictReader()	        Read rows as dictionaries
+csv.DictWriter()	        Write dictionaries as CSV rows
+writerow()	                Write one row
+writerows()	                Write multiple rows
+newline=""	                Avoid extra blank lines when writing
+delimiter	                Specify the column separator
