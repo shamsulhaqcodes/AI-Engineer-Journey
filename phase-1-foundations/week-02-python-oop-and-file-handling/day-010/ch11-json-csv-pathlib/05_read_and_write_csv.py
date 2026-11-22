@@ -6,8 +6,8 @@ with open("students.csv", "w", newline="") as file:
     writer.writerow(["Name", "Age", "Department", "Marks"])
 
     writer.writerow(["Ali", 21, "BSCS", 85])
-    writer.writerow(["Ahmed", 22, "BSCS", 90])
-    writer.writerow(["Sara", 20, "BBA", 92])
+    writer.writerow(["Shamsulhaq", 20, "BSCS", 90])
+    writer.writerow(["Raza", 22, "BBA", 92])
 
 print("CSV file created successfully!")
 
