@@ -13,3 +13,4 @@ Model real things with classes and objects, and make programs remember data by r
 | 009 | 2026-11-17 | File input/output | [day-009](./day-009) |
 | 010 | 2026-11-18 | JSON, CSV and pathlib | [day-010](./day-010) |
 | 011 | 2026-11-19 | Object Oriented Programming | [day-011](./day-011) |
+| 012 | 2026-11-20 | Object Oriented Programming | [day-012](./day-012) |
